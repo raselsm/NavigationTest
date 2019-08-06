@@ -15,10 +15,6 @@ import kotlinx.android.synthetic.main.fragment_fragment_transaction.*
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
-/**
- * A simple [Fragment] subclass.
- *
- */
 class FragmentTransaction : Fragment() {
 
     override fun onCreateView(
